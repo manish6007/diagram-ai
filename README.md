@@ -16,9 +16,7 @@ It leverages **Python Strands Agents** and the **Model Context Protocol (MCP)** 
 
 Watch DiagramAI in action!
 
-<video src="https://github.com/manish6007/diagram-ai/raw/main/assets/demo.mp4" controls="controls" muted="muted" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+[▶️ **Click here to watch the full Demo Video**](https://github.com/manish6007/diagram-ai/raw/main/assets/demo.mp4)
 
 ## 🏗️ Architecture Stack
 
