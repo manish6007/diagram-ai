@@ -18,6 +18,13 @@ Watch DiagramAI in action!
 
 [▶️ **Click here to watch the full Demo Video**](https://github.com/manish6007/diagram-ai/raw/main/assets/demo.mp4)
 
+### Interactive Draw.io Mode
+![Interactive Draw.io Interface](./assets/interactive_drawio1.png)
+![Generated Draw.io Diagram](./assets/interactive_drawio2.png)
+
+### Static PNG Mode
+![Generated PNG Architecture](./assets/png_demo.png)
+
 ## 🏗️ Architecture Stack
 
 DiagramAI is composed of three services working together:
